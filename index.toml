@@ -2,92 +2,87 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+hash = "1d5db1bb916b7efc637eb38dd583ded0765aec883faa30f3cf2464b1e82e1d40"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
+file = "mods/capes.pw.toml"
+hash = "c764ec528a8f0a0608129136fa35538e174dea6bcd712285db0a15b2ba685d1f"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "6c0a8f7c8e833b356f83de4e60952642c669d788ff49be95458b5a50979796f1"
+file = "mods/chunky.pw.toml"
+hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
+hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "95c6186b4eb881f1bf6beea9aedefcc73388e4c301754e65722d85764243318b"
-metafile = true
-
-[[files]]
-file = "mods/log-begone.pw.toml"
-hash = "65af8adf11070a823ab36edde42d4d9f9069061b51275da17cc0bc7b721d5a81"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
-metafile = true
-
-[[files]]
-file = "mods/mixintrace.pw.toml"
-hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
+file = "mods/lithium.pw.toml"
+hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
+hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
+hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
 metafile = true
 
 [[files]]
-file = "mods/puzzle.pw.toml"
-hash = "222ba96b4e6072eaf6cc9f0efaaebb6a166ee773897228ebb7513a804e932581"
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8ff792fd5c8d9225709b317b49cc741233bfa6958f27edd8a2c8da50b4ff34fd"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "b4418b3889720386ad519a583735b7658679454f0ce8129d6f1c72a00f561b93"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+file = "mods/skinrestorer.pw.toml"
+hash = "f55067ab4997ffe023533285eefc4265d021043cad95297ae25921a662bd768e"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "88121fbabab3563f8dbb84a32347c753d23eec466c1df3225570cdb42e251029"
+hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
 metafile = true
 
 [[files]]
