@@ -36,11 +36,6 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
