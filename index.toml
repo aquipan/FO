@@ -81,5 +81,9 @@ hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
 metafile = true
 
 [[files]]
+file = "server-icon-weird.png"
+hash = "95ab8d6ba64bb6a4139dd7184460576d4bf8f740adca10008fadd94979d3c04f"
+
+[[files]]
 file = "server-icon.png"
 hash = "c6444058274036c35635401a4555528bf91c878a14fb609b5ae03c4208eca658"
