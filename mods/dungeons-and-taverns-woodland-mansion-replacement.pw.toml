@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Woodland Mansion Replacement"
+filename = "dungeons-and-taverns-woodland-mansion-replacement-v1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3GfxWFCy/versions/yRE5SREd/dungeons-and-taverns-woodland-mansion-replacement-v1.5.jar"
+hash-format = "sha512"
+hash = "9ea01cda8f70f86c759ba377d42a4b443efde7359cec2eba3161c4fd28bf11456a910028deb2621839cacd3945c3841a3dcdb27e81f62a7268a7c6ee60826c70"
+
+[update]
+[update.modrinth]
+mod-id = "3GfxWFCy"
+version = "yRE5SREd"

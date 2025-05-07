@@ -26,6 +26,31 @@ hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "2a209d22e07bc551f0c6d65b45cd33e3c38b20eac93059f1ebb647f9c9a05d1c"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "6bc8bdc838f6cf305cff5e41de4319f5a55f1c485443b8ddec5a8375867784a5"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "cb293a383a8b0ea2ce0d85406a66e3eb7e52bddd4f00292037ad68d894ca2ec8"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-woodland-mansion-replacement.pw.toml"
+hash = "e63b7d7427a5a9a8a2f4fe042f780a065a4b880fbb786242036cc08d9acb8f13"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "507d28a4fb6c81d55f61e2e8ba7976e047b4b376f93e61a67d6fc8f1c1206668"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
 metafile = true
