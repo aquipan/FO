@@ -66,6 +66,11 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
+file = "mods/inertiaanticheat.pw.toml"
+hash = "ab4e74b83fd95a3b709729a03fec80e5fd12fe042c3883868b81a4330560cadd"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
